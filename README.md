@@ -1,0 +1,1 @@
+# djangomango_shared
